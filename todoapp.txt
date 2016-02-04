@@ -1,0 +1,18 @@
+TODO app
+
+-- FEATURES --
+TODO categories
+TODOs
+Completed TODOs
+-- CONDITIONALS --
+Write TODO categories
+Write TODOs
+Mark TODOs as completed
+-- USER STORIES --
+As a user, I can write a TODO category
+As a user, I can write a TODO
+As a user, I can delete a TODO
+As a user, I can have my TODO persist between activities
+As a user, I can persist my TODOs across sessions
+As a user, I can mark my TODOs as completed
+------------------
