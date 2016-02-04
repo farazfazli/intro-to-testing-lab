@@ -4,10 +4,16 @@ TODO app
 TODO categories
 TODOs
 Completed TODOs
+Delete TODOs
+Persist TODOs across activities
+Persist TODOs across sesssions
 -- CONDITIONALS --
 Write TODO categories
 Write TODOs
 Mark TODOs as completed
+Delete a TODO
+TODO is saved after changing activities
+TODO is saved after restarting app
 -- USER STORIES --
 As a user, I can write a TODO category
 As a user, I can write a TODO
